@@ -1,0 +1,6 @@
+C:\Users\intruder\source\repos\AddUserSharp\AddUserSharp\bin\Release\AddUserSharp.exe.config
+C:\Users\intruder\source\repos\AddUserSharp\AddUserSharp\bin\Release\AddUserSharp.exe
+C:\Users\intruder\source\repos\AddUserSharp\AddUserSharp\bin\Release\AddUserSharp.pdb
+C:\Users\intruder\source\repos\AddUserSharp\AddUserSharp\obj\Release\AddUserSharp.csproj.CoreCompileInputs.cache
+C:\Users\intruder\source\repos\AddUserSharp\AddUserSharp\obj\Release\AddUserSharp.exe
+C:\Users\intruder\source\repos\AddUserSharp\AddUserSharp\obj\Release\AddUserSharp.pdb
